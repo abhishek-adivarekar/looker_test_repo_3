@@ -2,6 +2,7 @@ view: query_level {
   sql_table_name: `TIAA_Dev_dataset.Query_level`
     ;;
 
+# test
   dimension: bot_response {
     type: string
     sql: ${TABLE}.bot_response ;;
