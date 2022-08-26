@@ -3,6 +3,7 @@ view: query_level {
     ;;
 
 # test
+# test2
   dimension: bot_response {
     type: string
     sql: ${TABLE}.bot_response ;;
